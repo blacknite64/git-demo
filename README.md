@@ -2,12 +2,6 @@
 
 This is the first in this repository.
 
-## Ipsum Below
-TatDDD...  dldood  ldldl
-Future..  do..  	dldldl
-dldl
-ddl  -~~~  dodood.
+## Website Contents
 
-ure..  do..  	dldldl
-dldl
-ddl  -~~~  dodood.
+1. index.html
